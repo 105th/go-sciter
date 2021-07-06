@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 	"path/filepath"
-
-	"github.com/105th/go-sciter"
-	"github.com/105th/go-sciter/window"
+	
+	"github.com/sciter-sdk/go-sciter"
+	"github.com/sciter-sdk/go-sciter/window"
 )
 
 func main() {
